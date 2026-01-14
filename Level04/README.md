@@ -4,7 +4,7 @@ The command to enter into this level is,
 ssh bandit4@bandit.labs.overthewire.org -p 2220
 <img width="645" height="517" alt="image" src="https://github.com/user-attachments/assets/56017acd-c9f0-46f0-b009-aeebcbfbbc8b" />
 
-User name: bandit4@bandit
+User name: bandit4
 Password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
 Use the command ls, to list the files
