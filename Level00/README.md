@@ -1,6 +1,7 @@
 **Bandit Level 00 → Level 01**
 The command used to enter into this level is,
 ssh bandit0@bandit.labs.overthewire.org -p 2220
+<img width="664" height="532" alt="image" src="https://github.com/user-attachments/assets/c0bc670f-0f74-44ab-be41-5dc03f8c5692" />
 
 User name: bandit0
 Password: bandit0
