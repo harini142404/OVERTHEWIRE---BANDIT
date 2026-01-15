@@ -15,3 +15,9 @@ Use the following commands to find the password of next level
 <img width="822" height="427" alt="image" src="https://github.com/user-attachments/assets/a6fc6730-daaf-42fd-b2c9-dfe2bb5b4ab1" />
 
 <img width="515" height="101" alt="image" src="https://github.com/user-attachments/assets/ce686b97-cd63-4e4b-97e1-b99dad17ef48" />
+
+The User name and password of next level is
+
+Username: bandit26
+
+Password: s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
